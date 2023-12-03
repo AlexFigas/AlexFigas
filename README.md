@@ -17,7 +17,7 @@ I'm a passionate and creative software developer. Welcome to my GitHub profile! 
 
 ## GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats-lovat-zeta.vercel.app/api?username=AlexFigas&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![My GitHub Stats](https://github-readme-stats-lovat-zeta.vercel.app/api?username=AlexFigas&show_icons=true&theme=dark&include_all_commits=true)
 
 ![My Most Used Languages](https://github-readme-stats-lovat-zeta.vercel.app/api/top-langs/?username=AlexFigas&theme=dark)
 

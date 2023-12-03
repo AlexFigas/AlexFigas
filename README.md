@@ -18,6 +18,6 @@ I'm a passionate and creative software developer. Welcome to my GitHub profile! 
 
 ## GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexFigas&show_icons=true&count_private=true&hide=contribs)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexFigas&show_icons=true&theme=dark&count_private=true)
 
 Happy coding! 👩‍💻🚀

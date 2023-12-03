@@ -7,7 +7,6 @@ I'm a passionate and creative software developer. Welcome to my GitHub profile! 
 - 🌐 Personal Website: [alexfigas.github.io](https://alexfigas.github.io)
 - 📫 Email: alexfigas11@gmail.com
 - 📱 LinkedIn: [Linkedin Profile](https://www.linkedin.com/in/alexfigas/)
-- 🐦 Twitter: [Twitter](https://twitter.com/AlexFigas)
 
 ## Skills
 
